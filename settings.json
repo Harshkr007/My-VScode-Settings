@@ -20,14 +20,14 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "php.validate.executablePath": "c:/xampp/php/php.exe",
-    "tailwindCSS.experimental.configFile": "C:/Users/HOME/OneDrive/Desktop/book-store/frontend/tailwind.config.js",
+    "tailwindCSS.experimental.configFile": "C:/Users/HOME/OneDrive/Desktop/ChatApp/client/tailwind.config.js",
     "tailwindCSS.experimental.classRegex": [
         "\\b([A-Za-z0-9-_]+)\\b"
     ],
     "workbench.colorTheme": "Noctis Obscuro",
     "editor.minimap.autohide": true,
     "editor.tokenColorCustomizations": {
-        "comments": "#FFFAE6"
+        "comments": "#6aa49a"
     },
     "editor.minimap.renderCharacters": false,
     "editor.fontFamily": "Victor Mono, Consolas, 'Courier New', monospace",
@@ -57,7 +57,7 @@
     "editor.codeActionsOnSave": {},
     "editor.inlineSuggest.suppressSuggestions": true,
     "cody.commandCodeLenses": false,
-    "cody.autocomplete.enabled": false,
+    "cody.autocomplete.enabled": true,
     "git.openRepositoryInParentFolders": "never",
     "workbench.colorCustomizations": {
         "editor.selectionBackground": "#39f1c970",
@@ -75,6 +75,9 @@
         "typescript": "typescriptreact"
     },
     "tailwindCSS.emmetCompletions": true,
-    "tailwindCSS.colorDecorators": true
+    "tailwindCSS.colorDecorators": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
 
